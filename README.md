@@ -3,7 +3,7 @@ Web developer, constantly motivated to acquire new knowledge. Thanks to this cur
 
 -📫 How to reach me magdalenareig@gmail.com
 
-Connect with me:
+[Connect with me:]
 </br>
 ![image](https://user-images.githubusercontent.com/117833691/218487845-5d86d01e-ec88-4e59-a7d5-c6a21dc0599e.png)
 </br>
