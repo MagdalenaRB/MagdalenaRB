@@ -4,33 +4,16 @@ Web developer, constantly motivated to acquire new knowledge. Thanks to this cur
 -📫 How to reach me magdalenareig@gmail.com
 
 [Connect with me:]https://www.linkedin.com/in/magdalena-reig-baratech-6607b8202/
-</br>
-![image](https://user-images.githubusercontent.com/117833691/218487845-5d86d01e-ec88-4e59-a7d5-c6a21dc0599e.png)
-</br>
-Languages and Tools:
-</br>
-
-![image](https://user-images.githubusercontent.com/117833691/218488096-a0011825-793d-43c8-8bcf-3ac46c92fc17.png)
-![image](https://user-images.githubusercontent.com/117833691/218488137-21a5f8ef-26d8-4aec-bd33-090d6c33c05e.png)
-![image](https://user-images.githubusercontent.com/117833691/218488198-b1b9b03a-ecab-4338-899c-a763d66170b3.png)
-</br>
-![image](https://user-images.githubusercontent.com/117833691/218488294-1db407ed-878a-4198-8bcb-01ea89446d88.png)
-![image](https://user-images.githubusercontent.com/117833691/218488346-861f1285-3173-4d16-8dd4-fea525b9ae88.png)
-</br>
-![image](https://user-images.githubusercontent.com/117833691/218488414-6be17329-9f56-4297-9dc9-1f9cdfc2c999.png)
-![image](https://user-images.githubusercontent.com/117833691/218488472-6e53f3bc-76a1-4b53-b724-e03398983f23.png)
-![image](https://user-images.githubusercontent.com/117833691/218488542-49bf1117-f478-4de7-8c23-9935d4c213f4.png)
-![image](https://user-images.githubusercontent.com/117833691/218488604-8a3d1b59-f458-419f-b641-639f5785280c.png)
-![image](https://user-images.githubusercontent.com/117833691/218488639-93650ada-6e38-4bcd-9d81-76cb0a6cb3cb.png)
 
 
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 dir="auto"><a id="user-content-hi-im-isabel-castro-" class="anchor" aria-hidden="true" href="#hi-im-isabel-castro-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi, I'm Isabel Castro <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
+
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 dir="auto"><a id="user-content-hi-im-isabel-castro-" class="anchor" aria-hidden="true" href="#hi-im-magdalena-reig-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi, I'm Magdalena Reig <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
 <hr>
 <h3 dir="auto"><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About me</h3>
 <h4 dir="auto"><a id="user-content-full-stack-developer-zap--junior" class="anchor" aria-hidden="true" href="#full-stack-developer-zap--junior"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Full-Stack Developer <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> | Junior</h4>
 <h5 dir="auto"><a id="user-content-my-main-characteristics-are-versatility-originality-audacity-and-resilience-fire" class="anchor" aria-hidden="true" href="#my-main-characteristics-are-versatility-originality-audacity-and-resilience-fire"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>My main characteristics are versatility, originality, audacity and resilience. <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji></h5>
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/isabel-santos-castro-/" rel="nofollow">https://www.linkedin.com/in/isabel-santos-castro-/</a></li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/isabel-santos-castro-/" rel="nofollow">https://www.linkedin.com/in/magdalena-reig-baratech-6607b8202/</a></li>
 </ul>
 <div align="center" dir="auto">
   <a href="https://github.com/Behbiz">
