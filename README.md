@@ -14,7 +14,7 @@
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/92366f0dd7da9e6314a00fe77b48706c3aaa4916de7f82250aecaf3194a696d9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f72716439523379614479313661386b4443312f67697068792e676966" target="_blank">
           
  
-      </span></animated-image></p>
+     
  <div dir="auto"><br>
   Technical resources:
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/104316263/211383383-6f553cfd-3f3b-4c49-83aa-f200dbb4d3ed.png"><img align="center" alt="figma" height="30" width="40" src="https://user-images.githubusercontent.com/104316263/211383383-6f553cfd-3f3b-4c49-83aa-f200dbb4d3ed.png" style="max-width: 100%;"></a>
